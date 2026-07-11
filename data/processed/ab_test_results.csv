@@ -1,0 +1,2 @@
+test_date,n_a,n_b,cvr_a_pct,cvr_b_pct,relative_uplift,z_stat,p_value,significant,ci_lower_pp,ci_upper_pp,est_monthly_revenue_gain,est_annual_revenue_gain,verdict
+2026-07-10,8500,8200,3.071,4.183,36.23,3.8489,0.0001,True,0.545,1.68,3977024.09,47724289.1,SHIP Variant B

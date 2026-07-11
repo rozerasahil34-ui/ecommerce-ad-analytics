@@ -1,0 +1,5 @@
+Channel,CVR_A,CVR_B,Uplift_pct,p_value,Significant
+Google Search,5.5,5.9,7.3,0.2927, No
+Meta Ads,2.8,2.48,-11.4,0.7598, No
+Display,0.9,1.267,40.7,0.0851, No
+Retargeting,9.2,11.133,21.0,0.0399, Yes
