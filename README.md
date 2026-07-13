@@ -4,7 +4,7 @@ An ad-campaign analytics project built on the **Olist e-commerce dataset**, comb
 
 It's implemented **twice, independently**, using the same base dataset:
 
-- **SQL track** - PostgreSQL views + queries, written up as a full report and visualized in Tableau.
+- **SQL track** - SQL track - PostgreSQL views + queries, written up as a full report and visualized in Tableau (dashboard)
 - **Python track** - Jupyter notebooks using pandas/matplotlib/plotly, which additionally include an A/B test analysis.
 
 The two tracks are **not dependent on each other** - different code, different simulation methodology for the ad data, different tools - but they answer the same business questions on top of the same Olist source data, so they're documented together here as one project.
